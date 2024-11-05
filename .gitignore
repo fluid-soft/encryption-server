@@ -1,0 +1,6 @@
+encryption-server
+.env
+.DS_Store
+.aider*
+.vscode
+.idea
